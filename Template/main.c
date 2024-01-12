@@ -1,6 +1,3 @@
-
-//correct as of 25.4
-
 #include "gd32f3x0.h"
 #include "systick.h"
 #include <stdio.h>

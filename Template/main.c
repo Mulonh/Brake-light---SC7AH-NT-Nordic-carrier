@@ -465,9 +465,6 @@ for (axis = 0; axis < 2; axis++) {
 					
 					timer_enable(TIMER1);
 					timer_state = 1;
-					//Original 80
-					//3Hz 80
-					//2Hz 65
             if(timer>=72) //
             {
                 timer=0;//定时计数清零
